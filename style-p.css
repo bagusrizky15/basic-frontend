@@ -1,0 +1,55 @@
+body {
+    padding: 20px;
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin: 10 0 20 0;
+    color: red;
+    padding: 6 3 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    margin: 20 0 0 20;
+    border-bottom: 1px solid red;
+    color: red;
+    padding-bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    padding-left: 0;
+    margin: 5px 0 20px 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+}
+
+.header {
+    padding: 10px;
+    background-color: aqua;
+}
+
+.header a, h1 {
+    color: white;
+    text-align: center;
+}
+
+.konten-utama {
+    width: 500px;
+    border: 1px solid #dddddd;
+    margin: 30px auto 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.konten-utama p {
+    font-family: Arial, Helvetica, sans-serif;
+}
